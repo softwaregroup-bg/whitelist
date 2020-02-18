@@ -52,7 +52,7 @@
         "google-auth-library": "3.0.1",
         "h2o2": "8.2.0",
         "hapi-auth-basic": "5.0.0",
-        "hapi-auth-jwt2": "8.1.0",
+        "hapi-auth-jwt2": "8.8.1",
         "hapi-swagger": "9.1.2",
         "hapi": "17.6.0",
         "html-pdf": "1.5.0 || 2.2.0",
