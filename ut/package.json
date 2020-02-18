@@ -67,7 +67,7 @@
         "json-stringify-deterministic": "1.0.1",
         "jsoneditor": "6.1.0",
         "jsonwebtoken": "8.5.0",
-        "jwks-rsa": "1.4.0",
+        "jwks-rsa": "1.6.2",
         "koa": "2.7.0",
         "koa-bodyparser": "4.2.1",
         "koa-compose": "4.1.0",
