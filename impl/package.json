@@ -181,6 +181,7 @@
         "ut-ctp-pos": "^7.2.0",
         "ut-ctp": "^5.21.0",
         "ut-customer": "^6.31.0",
+        "ut-db": "^7.0.1",
         "ut-dispatch-db": "^1.2.1",
         "ut-document": "^6.10.0",
         "ut-email": "^7.0.1",
