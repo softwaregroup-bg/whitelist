@@ -34,7 +34,7 @@
         "catbox-mongodb": "4.2.1",
         "catbox-redis": "4.2.4",
         "chardet": "0.1.0",
-        "chokidar": "3.0.2",
+        "chokidar": "3.4.0",
         "commander": "4.0.0",
         "commander-remaining-args": "1.2.0",
         "content": "4.0.6",
