@@ -283,7 +283,6 @@
         "semver": "5.6.0",
         "socket.io-client": "^2.2.0",
         "stylelint": "7.9.0",
-        "swagger-ui-dist": "^3.25.4",
         "tap": "^12.5.2 || ^13.1.0 || ^14.6.1",
         "typescript": "^2.6.1",
         "ut-agent": "^5.30.10",
