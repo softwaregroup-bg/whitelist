@@ -131,6 +131,7 @@
         "nodemailer-smtp-transport": "2.7.4",
         "openid-client": "2.5.0",
         "oracledb": "^4.0.1",
+        "openapi-client-axios": "3.2.1",
         "os": "^0.1.1",
         "package-json": "6.5.0",
         "pez": "4.0.5",
