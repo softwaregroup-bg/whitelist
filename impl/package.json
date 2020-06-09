@@ -232,6 +232,8 @@
         "ut-port-slack": "^7.0.0",
         "ut-port-viber": "^7.0.0",
         "ut-port-viber-sim": "^7.0.0",
+        "ut-port-voicecom": "^7.0.0",
+        "ut-port-voicecom-sim": "^7.0.0",
         "ut-port-webhook": "^7.0.0",
         "ut-report": "^7.0.0",
         "ut-rule": "^9.20.5",
