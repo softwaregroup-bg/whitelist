@@ -13,7 +13,7 @@
         "@hapi/inert": "5.2.2",
         "@hapi/joi": "16.1.7",
         "@koa/cors": "3.0.0",
-        "@neutrinojs/react": "9.2.0",
+        "@neutrinojs/react": "^9.2.0",
         "abstract-leveldown": "6.1.1",
         "adm-zip": "0.4.13",
         "ajv": "6.10.0",
