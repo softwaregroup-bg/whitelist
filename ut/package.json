@@ -358,7 +358,7 @@
         "bell-on-bundler-error-plugin": "^2.0.0",
         "bignumber.js": "^4.0.2",
         "classnames": "^2.2.5",
-        "compression-webpack-plugin": "^2.0.0 || ^3.0.0",
+        "compression-webpack-plugin": "^2.0.0 || ^3.0.0 || ^4.0.0",
         "croppie": "^2.4.0",
         "css-loader": "^0.28.7",
         "date-fns": "2.14.0",
