@@ -330,6 +330,8 @@
         "ut-user": "^7.35.4 || ^9.0.0",
         "vscode": "^1.1.6",
         "webpack": "^3.8.1 || ^4.37.0",
+        "webpack-dev-middleware": "^3.4.0",
+        "webpack-hot-middleware": "^2.20.0",
         "which": "1.2.12",
         "why-is-node-running": "^2.1.0",
         "winston": "^2.4.0",
