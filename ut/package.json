@@ -213,6 +213,7 @@
         "ut-function.timezone": "^1.1.0",
         "ut-function.xml2json": "^1.0.0",
         "ut-log": "^6.1.0",
+        "ut-login": "^7.1.9",
         "ut-openapi": "^1.0.1",
         "ut-port": "^6.4.6",
         "ut-port-console": "^9.0.2",
