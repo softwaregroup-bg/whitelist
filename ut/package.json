@@ -381,6 +381,7 @@
         "postcss-loader": "^2.0.8",
         "postcss-merge-rules": "^2.1.2",
         "postcss-preset-env": "^6.5.0",
+        "puppeteer": "^5.1.0",
         "prop-types": "^15.7.2",
         "rc-calendar": "^5.6.2",
         "rc-time-picker": "^2.2.1",
