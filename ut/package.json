@@ -277,7 +277,6 @@
         "consul": "^0.37.0",
         "conventional-changelog-cli": "1.2.0",
         "conventional-recommended-bump": "4.0.1",
-        "docxtemplater": "3.17.9",
         "fabric-shim": "1.4.1",
         "findup-sync": "0.4.3",
         "ftp-srv": "4.3.1",
@@ -299,7 +298,6 @@
         "nats-hemera": "^6.1.0",
         "nats": "^1.0.1",
         "pegjs": "0.10.0",
-        "pizzip": "3.0.6",
         "pkg-versions": "1.1.0",
         "puppeteer": "^5.1.0",
         "rabbot": "^2.1.0",
@@ -342,8 +340,7 @@
         "which": "1.2.12",
         "why-is-node-running": "^2.1.0",
         "winston": "^2.4.0",
-        "write-json-file": "2.0.0",
-        "xlsx-template":"1.2.0"
+        "write-json-file": "2.0.0"
     },
     "peerDependencies": {
         "@babel/core": "^7.2.2",
