@@ -218,6 +218,7 @@
         "ut-login": "^7.1.9",
         "ut-openapi": "^1.0.1",
         "ut-port": "^6.4.6",
+        "ut-port-cache": "^0.3.2",
         "ut-port-console": "^9.0.2",
         "ut-port-dialogflow": "^7.0.0",
         "ut-port-hyperledger": "^7.0.0",
