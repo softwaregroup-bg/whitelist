@@ -137,6 +137,7 @@
         "oracledb": "^4.0.1",
         "os": "^0.1.1",
         "package-json": "6.5.0",
+        "pdf-lib": "1.9.0",
         "pez": "4.0.5",
         "pg-promise": "5.3.1",
         "pofile": "1.0.8",
