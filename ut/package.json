@@ -280,7 +280,7 @@
         "conventional-recommended-bump": "4.0.1",
         "fabric-shim": "1.4.1",
         "findup-sync": "0.4.3",
-        "ftp-srv": "4.3.1",
+        "ftp-srv": "4.3.4",
         "ut-port-http": "^7.1.0 || ^8.2.1",
         "ut-port-httpserver": "^10.2.0",
         "fuzzy": "0.1.3",
