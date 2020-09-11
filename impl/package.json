@@ -62,7 +62,7 @@
         "hapi-auth-jwt2": "8.8.1",
         "hapi-swagger": "9.1.2",
         "hapi": "17.6.0",
-        "http-proxy": "1.17.0",
+        "http-proxy": "1.18.1",
         "ibmmq": "0.9.10",
         "iconv-lite": "0.4.19",
         "impl-ctp": "^7.1.5",
