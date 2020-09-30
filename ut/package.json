@@ -222,6 +222,7 @@
         "ut-port-console": "^9.0.2",
         "ut-port-dialogflow": "^7.0.0",
         "ut-port-hyperledger": "^7.0.0",
+        "ut-port-infobip": "^1.4.0",
         "ut-port-mail": "^8.4.3",
         "ut-port-messenger": "^7.0.0",
         "ut-port-messenger-sim": "^7.0.0",
