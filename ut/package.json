@@ -318,6 +318,7 @@
         "ut-agent": "^5.30.10",
         "ut-atm": "^9.0.0",
         "ut-browser-request": "^1.0.2",
+        "ut-card": "^9.0.2",
         "ut-cache": "^6.0.0",
         "ut-core": "^6.28.0 || ^8.0.0",
         "ut-customer": "^6.31.0 || ^8.0.0",
