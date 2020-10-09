@@ -216,6 +216,7 @@
         "ut-function.xml2json": "^1.0.0",
         "ut-log": "^6.1.0",
         "ut-login": "^7.1.9",
+        "ut-mssql": "^6.2.3",
         "ut-openapi": "^1.0.1",
         "ut-port": "^6.4.6",
         "ut-port-cache": "^0.3.2",
