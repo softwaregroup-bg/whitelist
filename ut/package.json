@@ -329,6 +329,7 @@
         "ut-customer": "^6.31.0 || ^8.0.0",
         "ut-db": "^7.0.1 || ^8.0.0",
         "ut-dispatch-db": "^1.2.1",
+        "ut-browser": "^7.3.0",
         "ut-document": "^6.11.0",
         "ut-function.capture-hapi": "^1.1.0",
         "ut-function.capture-request": "^1.1.0",
