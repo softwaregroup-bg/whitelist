@@ -44,7 +44,7 @@
         "date-fns": "1.29.0",
         "dns-discovery": "6.2.3",
         "docxtemplater": "3.17.9",
-        "dot-prop": "5.2.0",
+        "dot-prop": "6.0.0",
         "dukpt": "3.0.0",
         "edge": "^6.5.1",
         "encoding": "0.1.12",
