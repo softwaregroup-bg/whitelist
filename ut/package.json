@@ -119,7 +119,7 @@
         "lodash.times": "4.3.2",
         "lodash.zip": "4.2.0",
         "lru-cache": "4.1.1",
-        "mdns-resolver": "0.0.3",
+        "multicast-dns": "7.2.2",
         "memdown": "5.0.0",
         "mime-types": "2.1.22",
         "minimist": "1.2.5",
