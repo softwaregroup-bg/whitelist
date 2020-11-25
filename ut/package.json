@@ -335,6 +335,7 @@
         "ut-document": "^6.11.0",
         "ut-function.capture-hapi": "^1.1.0",
         "ut-function.capture-request": "^1.1.0",
+        "ut-iso": "^6.0.0",
         "ut-iso-acquirer-simulator": "^1.0.13",
         "ut-ledger": "^1.36.0 || ^3.0.0",
         "ut-notice": "^7.3.0",
