@@ -336,6 +336,7 @@
         "ut-iso": "^6.0.0",
         "ut-iso-acquirer-simulator": "^1.0.13",
         "ut-ledger": "^1.36.0 || ^3.0.0",
+        "ut-loadtest": "^6.1.1",
         "ut-notice": "^7.3.0",
         "ut-port-file": "^6.0.0",
         "ut-port-http": "^7.1.0 || ^8.2.1",

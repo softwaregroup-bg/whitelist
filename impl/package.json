@@ -212,6 +212,7 @@
         "ut-history": "^1.3.0 || ^3.0.0",
         "ut-iso-acquirer-simulator": "^1.0.5",
         "ut-ledger": "^1.36.0 || ^3.0.0",
+        "ut-loadtest": "^6.1.1",
         "ut-openapi": "^1.0.1",
         "ut-port-camunda": "^7.0.0",
         "ut-port-console": "^9.0.2",
