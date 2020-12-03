@@ -459,6 +459,7 @@
         "ut-ctp-pos": "^7.0.0-rc-dss.8",
         "ut-ctp": "^5.21.0",
         "ut-customer": "^6.31.0",
+        "ut-db": "^8.2.1",
         "ut-dispatch-db": "^1.1.0",
         "ut-document": "^6.11.0",
         "ut-error": "^5.4.9",
