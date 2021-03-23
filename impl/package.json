@@ -369,7 +369,6 @@
         "thread-loader": "^1.1.2",
         "typescript": "^2.6.1",
         "url-loader": "^0.6.2",
-        "ut-atm-simulator": "^1.0.0",
         "ut-browser-request": "^1.0.2",
         "ut-test": "^5.18.4",
         "ut-tools": "^5.6.0",
