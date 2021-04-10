@@ -411,6 +411,7 @@
         "ut-test": "^5.18.4",
         "ut-tools": "^5.6.0",
         "ut-transfer": "^6.31.7",
+        "ut-transliterate": "^7.1.0",
         "ut-tsql-lexer": "^1.0.6",
         "ut-unittest": "^1.0.2",
         "ut-user": "^7.35.4 || ^9.0.0",
