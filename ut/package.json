@@ -1,6 +1,6 @@
 {
     "dependencies": {
-        "@apidevtools/swagger-parser": "9.0.1",
+        "@apidevtools/swagger-parser": "10.0.2",
         "@hapi/boom": "9.1.0",
         "@hapi/bourne": "2.0.0",
         "@hapi/call": "8.0.1",
