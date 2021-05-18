@@ -367,6 +367,8 @@
         "react-router-redux": "^4.0.8",
         "react-select": "^1.0.0-rc.2",
         "react-scripts": "^4.0.1",
+        "react-virtualized-select": "^3.0.1",
+        "react-virtualized": "^9.8.0",
         "redux": "^4.0.5",
         "redux-devtools-extension": "^2.13.8",
         "redux-thunk": "^2.2.0",
