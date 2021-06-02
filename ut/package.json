@@ -77,7 +77,7 @@
         "joi": "13.7.0 || 17.3.0",
         "joi-to-typescript": "1.7.0",
         "ut-joi": "^1.4.0",
-        "jose": "2.0.3",
+        "jose": "2.0.5",
         "json-stringify-deterministic": "1.0.1",
         "jsoneditor": "6.1.0",
         "jsonwebtoken": "8.5.0",

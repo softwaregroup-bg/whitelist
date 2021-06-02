@@ -71,7 +71,7 @@
         "jimp": "0.2.27",
         "joi": "13.7.0",
         "joi-to-json-schema": "5.1.0",
-        "jose": "2.0.3",
+        "jose": "2.0.5",
         "json-schema-to-markdown": "1.1.1",
         "json-stringify-deterministic": "1.0.1",
         "jsoneditor": "6.1.0",
