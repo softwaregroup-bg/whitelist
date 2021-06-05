@@ -416,6 +416,7 @@
         "ut-port-httpserver": "^10.2.0",
         "ut-port-jsonrpc": "^6.1.0 || ^7.1.2",
         "ut-port-ldap": "^6.0.0",
+        "ut-port-script": "^7.0.2",
         "ut-port-wss": "^7.2.0",
         "ut-portal": "^7.5.0",
         "ut-rule": "^9.19.1 || ^11.0.0",
