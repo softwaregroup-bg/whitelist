@@ -12,6 +12,7 @@
         "@hapi/hapi": "20.0.1",
         "@hapi/inert": "6.0.3",
         "@hapi/joi": "17.1.1",
+        "@hapi/wreck": "17.1.0",
         "@koa/cors": "3.0.0",
         "@neutrinojs/react": "^9.2.0",
         "abstract-leveldown": "6.1.1",
