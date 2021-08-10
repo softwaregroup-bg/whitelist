@@ -73,6 +73,7 @@
         "hapi-swagger": "9.1.2",
         "hapi": "17.6.0",
         "http-proxy": "1.18.1",
+        "http-proxy-middleware": "2.0.1",
         "ibmmq": "0.9.10",
         "iconv-lite": "0.4.19",
         "immutable": "^4.0.0-rc.12",
