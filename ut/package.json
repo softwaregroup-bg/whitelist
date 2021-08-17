@@ -571,6 +571,7 @@
         "ut-atm": "^9.0.0",
         "ut-audit": "^3.5.0",
         "ut-bot-sim": "^7.10.0",
+        "ut-bulk-payment": "^4.2.5",
         "ut-bus": "^7.4.2",
         "ut-card": "^10.3.4",
         "ut-core": "^6.28.0",
