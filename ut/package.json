@@ -332,6 +332,7 @@
         "conventional-changelog-cli": "1.2.0",
         "conventional-recommended-bump": "4.0.1",
         "croppie": "^2.4.0",
+        "csstype": "^3.0.8",
         "devextreme": "20.2.4",
         "devextreme-react": "20.2.4",
         "fabric-shim": "1.4.1",
