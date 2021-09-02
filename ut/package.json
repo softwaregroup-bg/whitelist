@@ -1,6 +1,6 @@
 {
     "dependencies": {
-        "@apidevtools/swagger-parser": "10.0.2",
+        "@apidevtools/swagger-parser": "10.0.3",
         "@babel/plugin-proposal-class-properties": "^7.14.5",
         "@babel/plugin-proposal-optional-chaining": "^7.14.5",
         "@hapi/boom": "9.1.0",
@@ -20,7 +20,7 @@
         "abstract-leveldown": "6.1.1",
         "atm-crypto-helpers": "0.1.0",
         "adm-zip": "0.4.16 || 0.5.5",
-        "ajv": "6.10.0 || 8.6.0",
+        "ajv": "6.10.0 || 8.6.2",
         "ajv-formats": "2.1.0",
         "amqplib": "0.5.5",
         "autocannon": "^5.0.1 || ^6.5.0",
@@ -154,6 +154,7 @@
         "oracledb": "^4.0.1",
         "os": "^0.1.1",
         "package-json": "6.5.0",
+        "pdfmake": "0.2.2",
         "pez": "4.0.5",
         "pg-promise": "5.3.1",
         "pizzip": "3.0.6",
