@@ -328,6 +328,7 @@
         "bunyan-logstash": "0.3.4",
         "bunyan-logstash-tcp": "1.0.0",
         "chart.js": "^3.5.0",
+        "classnames": "^2.2.5",
         "clsx": "1.1.1",
         "consul": "^0.37.0",
         "connected-react-router": "^6.9.1",
