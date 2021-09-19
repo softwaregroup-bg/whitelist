@@ -300,7 +300,7 @@
         "@material-ui/pickers": "^3.2.10",
         "@material-ui/lab": "^4.0.0-alpha.57",
         "@rollup/plugin-babel": "^5.2.2",
-        "@rollup/plugin-commonjs": "^20.0.0",
+        "@rollup/plugin-commonjs": "^18.1.0",
         "@rollup/plugin-node-resolve": "^13.0.4",
         "@rollup/plugin-typescript": "^8.0.0",
         "@rollup/plugin-url": "^6.0.0",
