@@ -249,6 +249,7 @@
         "ut-port-messenger": "^7.2.0",
         "ut-port-messenger-sim": "^7.2.0",
         "ut-port-performance": "^7.1.4",
+        "ut-port-schedule": "^7.1.0",
         "ut-port-script": "^7.0.2",
         "ut-port-skype": "^7.2.0",
         "ut-port-skype-sim": "^7.2.0",
