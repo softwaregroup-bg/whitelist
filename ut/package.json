@@ -433,6 +433,7 @@
         "ut-fcm": "^1.0.1",
         "ut-front-devextreme": "^1.4.1",
         "ut-front-react": "^12.2.5",
+        "ut-fulfill": "^7.9.2",
         "ut-history": "^3.2.0",
         "ut-iso": "^6.0.0",
         "ut-iso-acquirer-simulator": "^1.0.13",
