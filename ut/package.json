@@ -251,6 +251,7 @@
         "ut-port-hyperledger": "^7.1.1",
         "ut-port-infobip": "^1.4.0",
         "ut-port-jambonz": "^7.1.0",
+        "ut-port-listen": "^7.2.0",
         "ut-port-mail": "^8.4.3",
         "ut-port-messenger": "^7.2.0",
         "ut-port-messenger-sim": "^7.2.0",
