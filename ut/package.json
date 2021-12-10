@@ -323,6 +323,7 @@
         "@storybook/addons": "^6.3.7",
         "@storybook/preset-typescript": "^3.0.0",
         "@storybook/react": "^5.3.19 || ^6.3.7",
+        "@storybook/testing-library": "^0.0.7",
         "@testing-library/react": "^11.2.2",
         "@types/jest": "^27.0.2",
         "@types/json-schema": "7.0.8",
