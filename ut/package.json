@@ -317,6 +317,7 @@
         "@storybook/addon-a11y": "^6.3.7",
         "@storybook/addon-actions": "^6.3.7",
         "@storybook/addon-essentials": "^6.3.7",
+        "@storybook/addon-interactions": "^6.4.9",
         "@storybook/addon-knobs": "^6.3.0",
         "@storybook/addon-postcss": "^2.0.0",
         "@storybook/addon-storysource": "^6.3.7",
