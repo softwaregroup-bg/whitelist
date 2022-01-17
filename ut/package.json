@@ -14,7 +14,7 @@
         "@hapi/catbox-redis": "6.0.2",
         "@hapi/h2o2": "9.0.2",
         "@hapi/hapi": "20.0.1",
-        "@hapi/inert": "6.0.3",
+        "@hapi/inert": "6.0.5",
         "@hapi/joi": "17.1.1",
         "@hapi/wreck": "17.1.0",
         "@koa/cors": "3.0.0",
