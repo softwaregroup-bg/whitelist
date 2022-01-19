@@ -368,6 +368,7 @@
         "joi-browser": "^13.4.0",
         "json-schema-to-markdown": "1.1.1",
         "lerna": "3.16.4",
+        "localtunnel": "2.0.2",
         "markdownlint": "0.7.0",
         "moleculer": "^0.13.3",
         "nats": "^1.0.1",
