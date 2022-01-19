@@ -425,6 +425,7 @@
         "ut-atm-simulator": "^1.0.0",
         "ut-atm": "^9.0.0",
         "ut-audit": "^5.5.5",
+        "ut-bot": "^7.14.2",
         "ut-bot-sim": "^7.9.0",
         "ut-browser": "^7.3.0",
         "ut-browser-request": "^1.0.2",
