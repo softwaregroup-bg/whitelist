@@ -277,6 +277,7 @@
         "ut-template": "^5.5.0",
         "ut-transliterate": "^7.1.0",
         "ut-tsql-lexer": "^1.0.7",
+        "ut-webpack": "^7.9.1",
         "ut-wss": "^1.0.0",
         "ut-xlsx": "^1.0.1",
         "uuid": "3.3.2",
