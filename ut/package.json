@@ -466,6 +466,7 @@
         "ut-port-script": "^7.0.2",
         "ut-port-wss": "^7.2.0",
         "ut-portal": "^7.5.0",
+        "ut-portal-admin": "^7.11.0",
         "ut-report": "^9.1.2",
         "ut-rule": "^9.19.1 || ^11.0.0",
         "ut-run": "^9.2.0",
