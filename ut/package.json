@@ -284,6 +284,7 @@
         "uuid": "3.3.2",
         "vision": "5.4.0",
         "webpack-bundle-analyzer": "^4.4.0",
+        "webpack-cli": "^3.3.12",
         "when": "3.7.8",
         "ws": "^7.2.0",
         "xlsx-template": "1.2.0",
