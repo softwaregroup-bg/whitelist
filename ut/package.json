@@ -349,6 +349,7 @@
         "connected-react-router": "^6.9.1",
         "conventional-changelog-cli": "1.2.0",
         "conventional-recommended-bump": "4.0.1",
+        "core-js": "^3.20.0",
         "croppie": "^2.4.0",
         "csstype": "^3.0.8",
         "devextreme": "20.2.4",
