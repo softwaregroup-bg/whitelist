@@ -203,6 +203,7 @@
         "tsscmp": "^1.0.6",
         "ut-api": "^7.0.1",
         "ut-bitsyntax": "^6.0.17",
+        "ut-browser-request": "^1.0.2",
         "ut-bus": "^6.7.0",
         "ut-codec-iso8583": "^7.0.0",
         "ut-codec-jsonrpc": "^7.0.0",
