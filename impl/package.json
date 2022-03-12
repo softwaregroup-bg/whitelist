@@ -241,7 +241,7 @@
         "ut-port-skype": "^7.2.0",
         "ut-port-skype-sim": "^7.2.0",
         "ut-port-slack": "^7.2.0",
-        "ut-port-sql": "^7.18.3",
+        "ut-port-sql": "^7.18.3 || ^8.0.0",
         "ut-port-swagger": "^3.12.0",
         "ut-port-tcp": "^6.0.0 || ^7.0.0",
         "ut-port-viber": "^7.2.0",
