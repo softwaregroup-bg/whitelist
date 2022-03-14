@@ -289,7 +289,7 @@
         "xlsx-template": "1.2.0",
         "xml-splitter": "1.2.1",
         "xml-tag-stream": "0.0.6",
-        "xlsx": "0.16.7",
+        "xlsx": "0.16.7 || 0.18.3",
         "xml2js": "0.4.22",
         "yaml": "1.10.0"
     },
