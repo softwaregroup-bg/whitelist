@@ -220,6 +220,7 @@
         "ut-ctp-payshield": "^7.3.0",
         "ut-ctp-ped": "^8.1.0",
         "ut-ctp-pos": "^7.2.0",
+        "ut-dns-discovery": "^6.2.3",
         "ut-emv": "^7.0.1",
         "ut-error": "^5.4.9",
         "ut-form-jsonschema": "^7.0.0",
