@@ -490,6 +490,7 @@
         "ut-viber": "^7.9.0",
         "ut-bluecode-utils": "^7.17.13",
         "vscode": "^1.1.6",
+        "wave-ui-registry":"^1.22.0",
         "webpack": "^3.8.1 || ^4.37.0",
         "webpack-cli": "^3.3.12",
         "webpack-dev-middleware": "^3.4.0",
