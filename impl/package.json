@@ -140,6 +140,8 @@
         "pdf-lib": "1.9.0",
         "pez": "4.0.5",
         "pg-promise": "5.3.1",
+        "playwright": "^1.20.1",
+        "playwright-chromium": "^1.20.1",
         "pofile": "1.0.8",
         "pull-paramap": "1.2.2",
         "pull-stream": "3.6.9",
