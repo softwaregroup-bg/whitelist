@@ -12,6 +12,7 @@
         "@hapi/catbox-memcached": "3.0.0",
         "@hapi/catbox-memory": "5.0.1",
         "@hapi/catbox-redis": "6.0.2",
+        "@hapi/content": "5.0.2",
         "@hapi/h2o2": "9.0.2 || 9.1.0",
         "@hapi/hapi": "20.0.1 || 20.2.1",
         "@hapi/inert": "6.0.5",
