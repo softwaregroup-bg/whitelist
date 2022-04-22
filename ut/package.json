@@ -495,6 +495,7 @@
         "ut-user": "^7.35.4 || ^9.0.0",
         "ut-ussd": "^7.1.0",
         "ut-viber": "^7.9.0",
+        "ut-workflow": "^7.1.10",
         "ut-bluecode-utils": "^7.17.13",
         "vscode": "^1.1.6",
         "wave-ui-registry":"^1.22.0",
