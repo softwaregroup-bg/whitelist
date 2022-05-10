@@ -274,6 +274,7 @@
         "ut-port-voicecom": "^7.0.0",
         "ut-port-voicecom-sim": "^7.0.0",
         "ut-port-webhook": "^8.0.0",
+        "ut-port-infosys": "^0.1.0",
         "ut-queue": "^6.1.0",
         "ut-rpc": "^6.0.0",
         "ut-speech": "^7.0.0",
