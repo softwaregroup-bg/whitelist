@@ -245,6 +245,7 @@
         "ut-function.timezone": "^1.1.0",
         "ut-function.timing": "^1.1.0",
         "ut-function.xml2json": "^1.0.0",
+        "ut-function.xjx": "^1.1.8",
         "ut-log": "^6.1.0",
         "ut-login": "^7.1.9",
         "ut-model": "^7.1.1",

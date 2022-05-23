@@ -219,6 +219,7 @@
         "ut-function.timezone": "^1.1.0",
         "ut-function.timing": "^1.1.0",
         "ut-function.xml2json": "^1.0.0",
+        "ut-function.xjx": "^1.1.8",
         "ut-history": "^1.3.0 || ^3.0.0",
         "ut-iso-acquirer-simulator": "^1.0.5",
         "ut-ledger": "^1.36.0 || ^3.0.0",
