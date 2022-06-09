@@ -292,6 +292,7 @@
         "ut-tsql-lexer": "^1.0.7",
         "ut-webpack": "^7.9.1",
         "ut-wss": "^1.0.0",
+        "ut-mfactor-document-ut-document": "^0.0.8"
         "ut-xlsx": "^1.0.1",
         "uuid": "3.3.2 || 8.3.2",
         "vision": "5.4.0",
