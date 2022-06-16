@@ -456,6 +456,7 @@
         "ut-browser-request": "^1.0.2",
         "ut-bulk-payment": "^4.2.5",
         "ut-cache": "^6.0.0",
+        "ut-mfactor-document-ut-document": "^0.0.10",
         "ut-card": "^9.0.2",
         "ut-core": "^6.28.0 || ^8.0.0",
         "ut-customer": "^6.31.0 || ^8.0.0",
