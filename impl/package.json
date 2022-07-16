@@ -221,6 +221,7 @@
         "ut-function.xml2json": "^1.0.0",
         "ut-function.xjx": "^1.1.8",
         "ut-history": "^1.3.0 || ^3.0.0",
+        "ut-hub": "^7.22.7",
         "ut-iso-acquirer-simulator": "^1.0.5",
         "ut-ledger": "^1.36.0 || ^3.0.0",
         "ut-loadtest": "^6.1.1",
