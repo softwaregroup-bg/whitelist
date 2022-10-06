@@ -646,6 +646,8 @@
         "socket.io": "^2.2.0",
         "style-loader": "^0.19.0",
         "terser-webpack-plugin": "^1.1.0",
+        "tesseract.js": "^3.0.3",
+        "tesseract.js-core": "^3.0.2",
         "thread-loader": "^1.1.2",
         "tslib": "^2.0.3",
         "url-loader": "^0.6.2",
