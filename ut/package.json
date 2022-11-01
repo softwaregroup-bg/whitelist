@@ -361,6 +361,7 @@
         "@storybook/testing-library": "^0.0.7",
         "@testing-library/react": "^11.2.2 || ^12.1.5",
         "@testing-library/user-event": "^14.2.6",
+        "@types/google.maps": "^3.50.4",
         "@types/jest": "^27.0.2",
         "@types/json-schema": "^7.0.8",
         "@types/mocha": "^2.2.42",
