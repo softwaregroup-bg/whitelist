@@ -389,6 +389,7 @@
         "croppie": "^2.4.0",
         "csstype": "^3.0.8",
         "date-fns": "^2.14.0",
+        "date-fns-tz": "^2.0.0",
         "devextreme": "20.2.4",
         "devextreme-react": "20.2.4",
         "expr-eval":"^2.0.2",
