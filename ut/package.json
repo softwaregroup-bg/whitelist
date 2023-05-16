@@ -494,6 +494,7 @@
         "ut-dialogflow": "^7.9.0",
         "ut-dispatch-db": "^1.2.1",
         "ut-document": "^6.11.0",
+        "ut-email": "^7.2.3",
         "ut-fcm": "^1.0.1",
         "ut-front-devextreme": "^1.4.1",
         "ut-front-material":"^0.31.0",
