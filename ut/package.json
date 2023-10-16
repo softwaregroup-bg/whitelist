@@ -163,7 +163,7 @@
         "nano": "6.2.0",
         "neutrino": "^9.2.0",
         "node-forge": "0.10.0",
-        "node-jose": "2.0.0",
+        "node-jose": "2.2.0",
         "node-png": "0.4.3",
         "node-sass": "^7.0.3",
         "nodemailer": "6.6.1 || 6.7.3 || 6.8.0",
