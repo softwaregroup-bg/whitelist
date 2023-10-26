@@ -216,6 +216,7 @@
         "stream-to-pull-stream": "1.7.2",
         "stream-transform": "2.0.2 || 3.0.4 || 3.2.1",
         "strip-json-comments": "2.0.1",
+        "svg-captcha": "1.4.0",
         "swagger-parser": "6.0.5",
         "swagger-ui-dist": "^3.25.4 || ^4.4.1",
         "swagger2": "1.0.4",
