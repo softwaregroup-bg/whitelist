@@ -45,7 +45,7 @@
         "browser-process-hrtime": "1.0.0",
         "buffer-more-ints": "0.0.2",
         "bunyan": "1.8.12",
-        "cacache": "15.0.5",
+        "cacache": "15.0.5 || 18.0.1",
         "call": "5.0.1",
         "catbox": "10.0.6",
         "catbox-memcached": "2.0.5",
