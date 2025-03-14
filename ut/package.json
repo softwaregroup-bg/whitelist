@@ -73,6 +73,7 @@
         "escape-string-regexp": "4.0.0",
         "fabric-contract-api": "2.0.0",
         "fabric-network": "1.4.5",
+        "file-server": "2.0.5",
         "file-type": "14.1.4",
         "fluent-logger": "3.4.1",
         "follow": "0.12.1",
