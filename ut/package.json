@@ -28,7 +28,7 @@
         "@neutrinojs/copy": "^9.2.0",
         "@neutrinojs/react": "^9.2.0",
         "@npmcli/arborist": "5.6.0",
-        "@playwright/test": "^1.19.1",
+        "@playwright/test": "1.44.1",
         "@tsconfig/docusaurus": "^1.0.5",
         "@types/tap": "^15.0.7",
         "abstract-leveldown": "6.1.1",
